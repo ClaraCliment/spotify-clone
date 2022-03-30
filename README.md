@@ -21,3 +21,5 @@ Voici ce que j'ai utilisé:
 ## Créateur du tuto:
 🌟 Merci à [Sonny Sangha aka PapaReact](https://github.com/PapaReact) pour ce tutoriel.
 👉 [Découvrez-le ici](https://www.youtube.com/watch?v=3xrko3GpYoU&t=13748s)
+
+![Clone Spotify](https://github.com/ClaraCliment/spotify-clone/blob/main/img/spotify_clone.png?raw=true)
